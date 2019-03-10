@@ -1,0 +1,3 @@
+/home/ananya/sem4/graphics/tutorial/Class_a2_20171019/build/CMakeFiles/edit_cache.dir
+/home/ananya/sem4/graphics/tutorial/Class_a2_20171019/build/CMakeFiles/rebuild_cache.dir
+/home/ananya/sem4/graphics/tutorial/Class_a2_20171019/build/CMakeFiles/graphics_asgn1.dir
